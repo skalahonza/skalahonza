@@ -23,6 +23,9 @@ Better check it out https://www.talxis.com/en :eyes:
 * [Nightscout](http://www.nightscout.info/)
 * Or any health related app
 
+## 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-janskala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jan-skala/)](https://www.linkedin.com/in/jan-skala/)
+
 <!--
 **skalahonza/skalahonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
