@@ -10,6 +10,7 @@ Better check it out https://www.talxis.com/en :eyes:
 
 ## 🌱 I’m currently learning
 * C#
+* VueJS
 * Azure
 * Serverless
 * Docker
