@@ -22,9 +22,6 @@ Better check it out https://www.talxis.com/en :eyes:
 * [Nightscout](http://www.nightscout.info/)
 * Or any health related app
 
-## 📫 How to reach me:
-
-
 <!--
 **skalahonza/skalahonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
