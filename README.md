@@ -12,6 +12,8 @@ Better check it out https://www.talxis.com/en :eyes:
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azure-pipelines)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
