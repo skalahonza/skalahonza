@@ -14,6 +14,10 @@ Better check it out https://www.talxis.com/en :eyes:
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat-square&logo=azure-pipelines)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Haskell](https://img.shields.io/badge/-Haskell-black?5D4F85=flat-square&logo=haskell)
+![Vue.js](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -26,16 +30,8 @@ Better check it out https://www.talxis.com/en :eyes:
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub (actions)](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-* C#
-* VueJS
-* Azure
-* Serverless
-* Docker
-* Kubernetes
-* Elastic
 * Low/No code
 * Functional Programming
 
