@@ -32,9 +32,6 @@ Better check it out https://www.talxis.com/en :eyes:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![GitHub (actions)](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-* Low/No code
-* Functional Programming
-
 ## 👯 I’m looking to collaborate on
 * [Nightscout](http://www.nightscout.info/)
 * Or any health related app
