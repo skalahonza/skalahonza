@@ -8,7 +8,7 @@ I am not just a tech guy. I also have passion for music. I play the piano in a b
 ### TALXIS
 Better check it out https://www.talxis.com/en :eyes:
 
-## 🌱 I’m currently learning
+## ⚡ Technologies
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat-square&logo=azure-functions)
