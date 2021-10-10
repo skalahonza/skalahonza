@@ -1,8 +1,14 @@
-### Hi there, I am Jan 👋
+### Hi there, I am Jan Skála👋
 <img src="https://github-readme-stats.vercel.app/api?username=skalahonza&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
-I started programming when I was at elementary school. It was more like block programming, a software called Baltík. I learned some basics: conditions, loops, coordinates, algorithms and stuff like that. Then I switched to C# and started doing desktop apps. When I started working in NETWORG I discovered a framework DotVVM. Through that I started experimenting with web apps. It really helped me to get around basics of web development without taking deep dives into JavaScript, which I did later anyway. Today I focus on creating web API’s or other backend services. I enjoy working with Azure and building cloud solutions, taking advantage of serverless solutions like Logic Apps or Azure Functions.
 
-I am not just a tech guy. I also have passion for music. I play the piano in a band called JGDIX. I like jazz, swing and boogie-woogie. I love jam sessions and improvising. I have played since my early childhood. 
+- 🌱 I’ve blogged here https://blog.thenetw.org/author/jan-skala/
+- 🏛️ I’ve Master's degree from here [CTU](https://www.cvut.cz/en)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I started programming when I was at elementary school.
+
+I enjoy working with Azure and building cloud solutions, taking advantage of serverless solutions like Logic Apps or Azure Functions.
+
+I am not just a tech guy. I also have passion for music. I play the piano in a band called JGDIX. I like jazz, swing and boogie-woogie. I love jam sessions and improvising.
 
 ## 🔭 I’m currently working on
 ### TALXIS
