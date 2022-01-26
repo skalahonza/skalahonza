@@ -40,6 +40,7 @@ Better check it out https://heart.mild.blue/#/en/ :eyes:
 
 ## 👯 I’m looking to collaborate on
 * [Nightscout](http://www.nightscout.info/)
+* [Tidepool](https://www.tidepool.org/)
 * Or any health related app
 
 ## 📫 How to reach me:
