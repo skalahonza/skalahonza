@@ -11,8 +11,9 @@ I enjoy working with Azure and building cloud solutions, taking advantage of ser
 I am not just a tech guy. I also have passion for music. I play the piano in a band called JGDIX. I like jazz, swing and boogie-woogie. I love jam sessions and improvising.
 
 ## 🔭 I’m currently working on
-### Heart Rate Detector
-Better check it out https://heart.mild.blue/#/en/ :eyes:
+### slp.blue
+Modern management of laboratory documentation, registers, and agendas\
+Better check it out https://slp.blue/en :eyes:
 
 ## ⚡ Technologies
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
